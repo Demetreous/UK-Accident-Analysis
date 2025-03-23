@@ -1,5 +1,12 @@
 # UK-Accident-Analysis
 
+<p align="center">
+  <img src="photos/heatmap.png" alt="Accident Heatmap" width="200">
+  <img src="photos/gender_distributions.png" alt="Gender Distribution" width="200">
+  <img src="photos/line_chart.png" alt="Accident Trend" width="200">
+</p>
+
+
 ## Description
 
 Car accidents have always been a major issue and with increasing population and developing cities, the issue has been growing as well. The most important aspect of any accident is its severity because it impacts people’s lives the most. This study helps to determine the important attributes that lead to major accidents (fatal) and try to predict conditions that may lead to fatal crashes so they can possibly be prevented. The findings were made clear through various visualizations including but not limited to bar charts, pie charts, line charts, heatmaps, and scatterplots.
