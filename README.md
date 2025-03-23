@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="photos/heatmap.png" alt="Accident Heatmap" width="200">
-  <img src="photos/gender_distributions.png" alt="Gender Distribution" width="200">
-  <img src="photos/line_chart.png" alt="Accident Trend" width="200">
+  <img src="photos/gender_distributions.png" alt="Gender Distribution" width="300">
+  <img src="photos/line_chart.png" alt="Accident Trend" width="300">
 </p>
 
 
